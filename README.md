@@ -26,11 +26,11 @@ v56b87@gmail.com
   3. [OTP application 入门](./chapter2/getting_started_with_OTP_applications.md)
   4. [OTP libraries 入门](./chapter2/getting_started_with_OTP_libraries.md)
   5. [OTP releases 入门](./chapter2/getting_started_with_OTP_releases.md)
-  6. [从 scratch 开始]()
-  7. [使用 spaces 代替 tabs]()
-  8. [使用 templates]()
-  9. [在 git 中隐藏 Erlang.mk]()
-  10. [获取帮助]()
+  6. [从 scratch 开始](./chapter2/getting_started from_scratch.md)
+  7. [使用 spaces 代替 tabs](./chapter2/using_spaces_instead_of_tabs.md)
+  8. [使用 templates](./chapter2/using_templates.md)
+  9. [在 git 中隐藏 Erlang.mk](./chapter2/hiding_erlang.mk_from_git.md)
+  10. [获取帮助](./chapter2/getting_help.md)
 
 ### 三、回顾
   1. [构建你的项目]()
