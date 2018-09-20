@@ -17,8 +17,8 @@ v56b87@gmail.com
 ## 目录
 
 ### 一、 安装
-  1. [Uinx 安装]()
-  1. [Windows 安装]()
+  1. [Uinx 安装](./chapter1/on_uinx.md)
+  2. [Windows 安装]()
 
 ### 二、入门
   1. [为你的项目创建文件夹]()
