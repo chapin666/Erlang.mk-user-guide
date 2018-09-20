@@ -21,11 +21,11 @@ v56b87@gmail.com
   2. [Windows 安装](./chapter1/on_windows.md)
 
 ### 二、入门
-  1. [为你的项目创建文件夹]()
-  2. [下载 Erlang.mk]()
-  3. [OTP application 入门]()
-  4. [OTP libraries 入门]()
-  5. [OTP releases 入门]()
+  1. [为你的项目创建文件夹](./chapter2/creating_a_folder_for_your_project.md)
+  2. [下载 Erlang.mk](./chapter2/downloading_erlang.mk.md)
+  3. [OTP application 入门](./chapter2/getting_started_with_OTP_applications.md)
+  4. [OTP libraries 入门](./chapter2/getting_started_with_OTP_libraries.md)
+  5. [OTP releases 入门](./chapter2/getting_started_with_OTP_releases.md)
   6. [从 scratch 开始]()
   7. [使用 spaces 代替 tabs]()
   8. [使用 templates]()

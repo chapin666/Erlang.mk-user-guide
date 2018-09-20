@@ -22,11 +22,11 @@ C:\Users\essen\Downloads> otp_win64_18.0.exe /S
 
 Windows 上唯一受支持的环境是 MSYS2。 MSYS2 是一个类似于 Windows 的轻量级 Unix 环境，它与 Arch Linux 软件包管理器 pacman 一起提供。
 
-MSYS2 项目提供了一键安装程序和安装后设置的说明。
+MSYS2 项目提供了[一键安装程序](http://www.msys2.org/)和安装后设置的说明。
 
 目前无法以静默方式使用安装程序。 值得庆幸的是，MSYS2 项目提供了一个可用于代替安装程序的压缩包。 但是归档需要 7zip 来解压缩它。
 
-首先，下载 MSYS2基本压缩包并在 C:\ 下解压缩。 假设您将存档下载为 msys2.tar.xz 并将其放在 C:\ 中，您可以使用以下命令将其解压缩：
+首先，[下载 MSYS2基本压缩包](https://sourceforge.net/projects/msys2/files/Base/x86_64/msys2-base-x86_64-20150512.tar.xz/download)并在 C:\ 下解压缩。 假设您将存档下载为 msys2.tar.xz 并将其放在 C:\ 中，您可以使用以下命令将其解压缩：
 ```
 C:\> 7z x msys2.tar.xz
 C:\> 7z x msys2.tar > NUL
