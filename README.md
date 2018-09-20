@@ -18,7 +18,7 @@ v56b87@gmail.com
 
 ### 一、 安装
   1. [Uinx 安装](./chapter1/on_uinx.md)
-  2. [Windows 安装]()
+  2. [Windows 安装](./chapter1/on_windows.md)
 
 ### 二、入门
   1. [为你的项目创建文件夹]()
