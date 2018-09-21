@@ -45,9 +45,9 @@ v56b87@gmail.com
   3. [自定义构建](./chapter4/customizing_the_build.md)
 
 ### 五、限制
-  1. [Erlang必须可用]()
-  2. [路径总的空格]()
-  3. [依赖关系跟踪和修改时间]()
+  1. [Erlang必须可用](./chapter5/erlang_must_be_available.md)
+  2. [路径中的空格](./chapter5/spaces_in_path.md)
+  3. [依赖关系跟踪和修改时间](./chapter5/dependency_tracking_and_modification_times.md)
 
 ## Ⅰ、Code
 ### 六、构建
