@@ -32,12 +32,12 @@ v56b87@gmail.com
   9. [在 git 中隐藏 Erlang.mk](./chapter2/hiding_erlang.mk_from_git.md)
   10. [获取帮助](./chapter2/getting_help.md)
 
-### 三、回顾
-  1. [构建你的项目]()
-  2. [探索包索引]()
-  3. [文档生成]()
-  4. [运行测试]()
-  5. [了解更多]()
+### 三、总结
+  1. [构建你的项目](./chapter3/building_your_project.md)
+  2. [探索包索引](./chapter3/exploring_the_package_index.md)
+  3. [文档生成](./chapter3/generating_documentation.md)
+  4. [运行测试](./chapter3/running_tests.md)
+  5. [了解更多](./chapter3/need_more.md)
 
 ### 四、更新 Erlang.mk
   1. [初始化 bootstrap]()
