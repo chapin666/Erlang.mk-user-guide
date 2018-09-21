@@ -40,9 +40,9 @@ v56b87@gmail.com
   5. [了解更多](./chapter3/need_more.md)
 
 ### 四、更新 Erlang.mk
-  1. [初始化 bootstrap]()
-  2. [更新]()
-  3. [自定义构建]()
+  1. [初始化 bootstrap](./chapter4/initial_bootstrap.md)
+  2. [更新](./chapter4/updating.md)
+  3. [自定义构建](./chapter4/customizing_the_build.md)
 
 ### 五、限制
   1. [Erlang必须可用]()
